@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navigation {
+  text-align: left;
+  color: white;
+}
+
+.nav-list {
+  padding: 15px 24px;
+
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+body {
+  background-image: url(../pic/august-phlieger-CREqtqgBFcU-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: block;
+  padding: 100px;
+  height: 100vh;
+}
